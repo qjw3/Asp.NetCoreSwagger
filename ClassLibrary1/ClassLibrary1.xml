@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLibrary1</name>
+    </assembly>
+    <members>
+        <member name="M:ClassLibrary1.Class2Controller.Get(ClassLibrary1.ValueReq2)">
+            <summary>
+            aaa
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
